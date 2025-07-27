@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitoria Vaz
 
-**`Desenvolvedora FullStack em Formação`**
+**`Desenvolvedora back end em Formação`**
 
 Olá! Me chamo Vitoria Vaz Luiz, tenho 21 anos e sou natural de Belo Horizonte - MG.
 Atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas e estou em transição de carreira — foi na área da tecnologia que me encontrei e me apaixonei! 💙
@@ -102,14 +102,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VitoriaLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=lVitoriaVaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaLuiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lVitoriaVaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
