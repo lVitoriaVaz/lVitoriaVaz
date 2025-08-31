@@ -97,20 +97,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnet
 ### 📊 Estatísticas
 
 <p>
-  <img 
+   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=lVitoriaVaz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
+    src="https://github-readme-stats.vercel.app/api?username=lVitoriaVaz&show_icons=true&theme=tokyonight&rank_icon=github" 
+/>  
+  
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lVitoriaVaz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lVitoriaVaz&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9" 
+/>
 
 </p>
 
