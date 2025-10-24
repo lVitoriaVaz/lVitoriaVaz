@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Vitoria Vaz
 
-**`Desenvolvedora back end em Formação`**
+**`Desenvolvedora back end`**
 
 Olá! Me chamo Vitoria Vaz Luiz, tenho 21 anos e sou natural de Belo Horizonte - MG.
 Atualmente curso Análise e Desenvolvimento de Sistemas na PUC Minas e estou em transição de carreira — foi na área da tecnologia que me encontrei e me apaixonei! 💙
